@@ -1,4 +1,8 @@
 /*
+ Author: Moose OMalley
+ Source: LinkedList.java
+Descrtn: Simple double LinkedList class.  Requires Node.java.
+
 
 UML Class Diagram
 

@@ -1,4 +1,8 @@
 /*
+ Author: Moose OMalley
+ Source: Node.java
+Descrtn: Simple Node class to go along with the LinkedList.java class.
+
 
 UML Class Diagram
 
